@@ -1,0 +1,50 @@
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.exe
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.deps.json
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.runtimeconfig.json
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.pdb
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.AssemblyReference.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\B_wheeler.Form1.resources
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.GenerateResource.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.AssemblyInfoInputs.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.AssemblyInfo.cs
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.CoreCompileInputs.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\refint\BWheeler.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.pdb
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.genruntimeconfig.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\ref\BWheeler.dll
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.exe
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.deps.json
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.runtimeconfig.json
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.dll
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.pdb
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.AssemblyReference.cache
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\B_wheeler.Form1.resources
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.GenerateResource.cache
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.AssemblyInfoInputs.cache
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.AssemblyInfo.cs
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.CoreCompileInputs.cache
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.dll
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\refint\BWheeler.dll
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.pdb
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.genruntimeconfig.cache
+C:\Users\Almodather\Desktop\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\ref\BWheeler.dll
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.exe
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.deps.json
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.runtimeconfig.json
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.dll
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\BWheeler.pdb
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\B_wheeler.Form1.resources
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.GenerateResource.cache
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.GeneratedMSBuildEditorConfig.editorconfig
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.AssemblyInfoInputs.cache
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.AssemblyInfo.cs
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.csproj.CoreCompileInputs.cache
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.dll
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\refint\BWheeler.dll
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.pdb
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\BWheeler.genruntimeconfig.cache
+F:\Grad Admission\SoP\XNLP\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\ref\BWheeler.dll

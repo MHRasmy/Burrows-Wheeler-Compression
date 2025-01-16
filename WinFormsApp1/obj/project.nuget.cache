@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCmTlh2BGbobnbKqy7mUq6Yd8K5sYX0pITZRUYpOZARznLdQ0YVccI15IpfGl8VsxZUYqpTMtoE5RIUnnIP5iQ==",
+  "success": true,
+  "projectFilePath": "F:\\Grad Admission\\SoP\\XNLP\\B_wheeler\\B_wheeler\\WinFormsApp1\\BWheeler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
