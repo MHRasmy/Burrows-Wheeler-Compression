@@ -79,7 +79,7 @@ This project implements the Burrows-Wheeler compression algorithm, a three-step 
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/B_wheeler.git
+   git clone https://github.com/MHRasmy/B_wheeler.git
    cd B_wheeler
    ```
 
