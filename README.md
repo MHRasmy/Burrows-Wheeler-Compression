@@ -80,7 +80,7 @@ This project implements the Burrows-Wheeler compression algorithm, a three-step 
 1. Clone this repository:
    ```bash
    git clone https://github.com/MHRasmy/B_wheeler.git
-   cd B_wheeler
+   cd WinFormsApp1
    ```
 
 2. Open the project in Visual Studio.
